@@ -18,7 +18,7 @@
  <iframe  
  height=850 
  width=90% 
- src="http://http://madou.lipluscu.com/tree/"  
+ src="http://madou.lipluscu.com/tree/"  
  frameborder=0  
  allowfullscreen>
  </iframe>
